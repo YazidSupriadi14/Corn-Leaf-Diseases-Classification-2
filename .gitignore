@@ -1,0 +1,7 @@
+
+sample_data/
+drive/
+*.zip
+corn/
+corn-leaf-image/
+__pycache__/
